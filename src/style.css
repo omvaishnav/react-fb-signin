@@ -1,0 +1,8 @@
+.fb-button {
+    background: #fff url(./fb-icon.svg) no-repeat 0 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 10px 10px 45px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}

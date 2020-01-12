@@ -37,3 +37,9 @@ class App extends React.Component {
 export default App;
 ```
 *Note:** Don't forget to replace <your_app_id> with your facebook app id.
+
+#Component Parameters:-
+1. appId - facebook app id (required)
+2. fields - user data which you want from the user (except the user name, all other data asks user permission)
+3. successCallback - will return user data in json format when user successfully login.
+4. failureCallback - will return error when user won't login.

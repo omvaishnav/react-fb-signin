@@ -1,14 +1,14 @@
 {
   "name": "react-fb-signin",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Login with Facebook component",
   "main": "build/index.js",
   "peerDependencies": {
     "react": "^16.12.0"
   },
   "dependencies": {
-    "react": "^16.12.0",
-    "webpack": "^4.41.5"
+    "react": "^16.13.1",
+    "webpack": "^4.43.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -26,10 +26,10 @@
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.5.1",
-    "css-loader": "^3.4.1",
-    "file-loader": "^5.0.2",
-    "style-loader": "^1.1.2",
-    "webpack-cli": "^3.3.10"
+    "css-loader": "^3.5.3",
+    "file-loader": "^5.1.0",
+    "style-loader": "^1.2.1",
+    "webpack-cli": "^3.3.11"
   },
   "repository": {
     "type": "git",
